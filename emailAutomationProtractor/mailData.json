@@ -1,0 +1,8 @@
+{
+    "heading": "Compose mail...",
+    "sendButton":"Send",
+    "restButton":"Reset",
+    "innerText_To":"To",
+    "innerText_Subject":"Subject",
+    "innerText_Message": "Enter your message"
+}

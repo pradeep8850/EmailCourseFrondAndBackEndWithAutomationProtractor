@@ -1,0 +1,10 @@
+{
+    "testURL": "http://localhost:4200/",
+    "postURL":"http://localhost:8080/courses",
+    "mainHeading":"Pradeep Application GUI",
+    "pageHeading": "Welcome to Email Sender App...",
+    "emailHeading":"Send Email to anyone...",
+    "courseHeading": "View couses",
+    "sendEmailButtonText": "send email",
+    "NavigatetoCourseButtonText": "Navigate to Course"
+}
